@@ -1,4 +1,3 @@
-
 for(i=0; i<movieData.length; i++){
 
 		
@@ -12,7 +11,7 @@ document.getElementsByClassName("box")[i].innerHTML +=
     
     <p class="card-text">${movieData[i].description}</p>
 <button class="btn" onclick="clickME()">Like</button>
-    <p><a class="two">0</a></p>
+    <p>clicks: <a class="two"> 0</a></p>
 	</div>
 </div>`
 
@@ -28,16 +27,7 @@ var btn = document.getElementsByClassName("btn");
 
 }
 
-
  
-
-
-
-
-
- 
-
-
 
 
 
