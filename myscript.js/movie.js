@@ -28,13 +28,12 @@ var btn = document.getElementsByClassName("btn");
 
 }
 
-/*document.getElementById('one').innerHTML = clk;
-document.getElementById('two').innerHTML = clk;
-document.getElementById('three').innerHTML = clk;
-document.getElementById('four').innerHTML = clk;
-document.getElementById('five').innerHTML = clk;
-document.getElementById('six').innerHTML = clk;
-  */  
+
+ 
+
+
+
+
 
  
 
