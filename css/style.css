@@ -1,0 +1,77 @@
+h1{
+	
+	text-align: center;
+	color: black;
+}
+h2{
+	text-align: center;
+	color: white;
+}
+iframe{
+	width: 400px;
+	height: 250px;
+}
+.navbar{
+	width: 100%;
+	color: white;
+	margin-top: 20px;
+	background-color: black;
+	border: 1px solid black;	
+}
+.navbar-brand{
+	color: white;
+}
+.navbar-brand:hover{
+	color: black;
+	background-color: white;
+}
+
+.box{
+	width: 200px;
+	margin: auto;
+
+}
+
+.col-lg-6{
+	margin-bottom: 20px;
+	background-color: white;
+	opacity: 0.9;
+	
+}
+.col-lg-12{
+margin-bottom: 20px;
+	background-color: white;
+}
+img{
+	position: relative;
+	border-radius: 10px;
+	width: 200px;
+	height: 250px;
+}
+
+
+p{
+	width: 200px;
+	text-align: justify;
+	padding: 15px;
+	color: grey;
+	border-bottom: 1px solid pink;
+}
+.btn-warning{
+	margin: auto;
+}
+button{
+	width: 200px;
+	font-size: 20px;
+	
+}
+.likes{
+	font-size: 20px;
+	text-align: center;
+	background-color: white;
+}
+.clicks{
+	width: 200px;
+	text-align: center;
+	font-size: 20px;
+}

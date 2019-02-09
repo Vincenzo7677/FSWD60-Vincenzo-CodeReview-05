@@ -1,0 +1,31 @@
+movieData = [{	
+		"Title": "Marilyn", 
+		"description": "Lorem ipsum tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+		"image": "img/marilyn.jpg"
+		},
+	{
+		"Title": "Chaplin",
+		"description": "Lorem ipsum tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+		"image": "img/chaplin.jpg"
+		},
+	{
+		"Title": "Buster",
+		"description": "Lorem ipsum tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+		"image": "img/buster.jpg"
+		},
+	{
+		"Title": "Marlene",
+		"description": "Lorem ipsum tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+		"image": "img/marlene.jpg"
+		},
+	{
+		"Title": "Cary", 
+		"description": "Lorem ipsum tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+		"image": "img/cary.jpg"
+		},
+	{
+		"Title": "Audrey",
+		"description": "Lorem ipsum tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+		"image": "img/audrey.jpg"		
+
+}];
